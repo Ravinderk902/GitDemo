@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110" started-at="2020-06-30T09:59:00 GMT" finished-at="2020-06-30T09:59:00 GMT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="110" started-at="2020-06-30T09:59:00 GMT" finished-at="2020-06-30T09:59:00 GMT">
+      <class name="ravindermaven.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumTestCaseChrome()[pri:0, instance:ravindermaven.SeleniumTest@3327bd23]" name="SeleniumTestCaseChrome" duration-ms="11" started-at="2020-06-30T09:59:00 GMT" finished-at="2020-06-30T09:59:00 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTestCaseChrome -->
+        <test-method status="PASS" signature="SeleniumTestCaseFirefox()[pri:0, instance:ravindermaven.SeleniumTest@3327bd23]" name="SeleniumTestCaseFirefox" duration-ms="0" started-at="2020-06-30T09:59:00 GMT" finished-at="2020-06-30T09:59:00 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTestCaseFirefox -->
+      </class> <!-- ravindermaven.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
